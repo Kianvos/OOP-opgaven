@@ -1,0 +1,35 @@
+body {
+    margin: 5%;
+}
+
+table {
+    margin: 0 auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+tr {
+    height: 4vw;
+}
+
+tr:first-child td {
+    color: white;
+    background-color: #455A64;
+}
+
+td {
+    width: 4vw;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #78909C;
+}
+
+td:first-child {
+    color: white;
+    background-color: #455A64;
+}
+
+td:not(:first-child).diagonal {
+    background-color: #cfd8dc;
+}

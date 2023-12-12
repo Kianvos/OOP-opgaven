@@ -1,0 +1,4 @@
+2022-11-25T15:29:02.458497 User Henk entered wrong password 3 times
+2022-11-25T15:35:22.528392 Message to logger made by factory 1
+2022-11-25T15:43:02.623305 Message to logger made by factory 2
+2022-11-25T15:45:58.097616 Message to logger made by factory 3
